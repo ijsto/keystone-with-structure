@@ -1,4 +1,4 @@
-# Keystone6 With Structure Starter Kit: OAuth
+# Keystone6 Starter Kit: With Structure 
 
 Welcome, welcome! 👋🏼
 
